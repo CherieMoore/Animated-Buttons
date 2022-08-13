@@ -1,13 +1,19 @@
-# ProjectsbyCherieMoore
 <body>
 <h2>
 Getting Started
 </h2>
-
+<ol>
+<li>
+Open <code>cheriesanimatedbuttons.html</code> in the browser of your choice.</li>
+</ol>
 <p>
+
 Cherie's Animated Buttons was created to show the use of transistions, gradients, colors, styling and alignment of buttons.
 <p>
-<body>
+
+
+<body><img width="1476" alt="Screen Shot 2022-08-12 at 9 46 49 PM" src="https://user-images.githubusercontent.com/109016720/184465616-4fe15c63-a346-44c4-9025-fcebcf259c10.png">
+
 
 This project was built using:
 
