@@ -8,7 +8,7 @@ Open <code>cheriesanimatedbuttons.html</code> in the browser of your choice.</li
 </ol>
 <p>
 
-Cherie's Animated Buttons was created to show the use of transistions, gradients, colors, styling and alignment of buttons.
+Cherie's Animated Buttons was created to show the use of transitions, gradients, colors, styling and alignment of buttons.
 <p>
 
 
